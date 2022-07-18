@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Root Version="4.6.0.0">
+  <Sequence Name="MainSequence">
+    <Step Id="ID#:f4/tbCyvvUKQoRdZxL0I3C" Name="Frequency Test" FailureCode="-100">
+      <Language LangCode="en-US" FailureDescription="Channel 1 - Frequency Accuracy Test" />
+      <Language LangCode="it-IT" FailureDescription="Canale 1 - Test Accuratezza Frequenza" />
+    </Step>
+  </Sequence>
+</Root>

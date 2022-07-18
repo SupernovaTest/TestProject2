@@ -1,0 +1,1 @@
+Put here all files related to the PrinteTemplates section

@@ -1,0 +1,1 @@
+Put in this folder all documents related to your Product connections

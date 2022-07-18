@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root Version="4.6.0.0">
+  <Info>
+    <Main Description="" FixtureId="ProvaFifture" ProjectType="Production" SocketNr="3" SocketSynchronizationMethod="Batch" />
+    <SoftwareRevisionManagement IgnoreList="" PluginName="None" />
+  </Info>
+</Root>

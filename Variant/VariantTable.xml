@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Root Version="4.6.0.0">
+  <Variant Code="Code1" Name="Variant 1" Description="" IsReleased="False" />
+  <Variant Code="300" Name="Receiver300" Description="Receiver 300Mhz" IsReleased="False">
+    <Sequence Name="MainSequence">
+      <Step Id="ID#:f4/tbCyvvUKQoRdZxL0I3C" Name="Frequency Test">
+        <Variable Lookup="Limits.Low" Context="Default" Value="4" />
+      </Step>
+    </Sequence>
+  </Variant>
+  <Variant Code="500" Name="Receiver500" Description="Receiver 500Mhz" IsReleased="False" />
+</Root>
