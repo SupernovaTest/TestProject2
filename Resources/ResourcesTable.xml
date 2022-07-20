@@ -1,4 +1,73 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root Version="4.6.0.0" CalibrationMirroringEnabled="False" CalibrationMirroringPath="">
-  <Configuration />
+  <Configuration>
+    <Resource UUTResourceId="DMM" Class="Analog" Direction="Measure" Type="DAQMx" Calibration="Linear" IsAuxiliary="False">
+      <ResourceParameter Name="Scale_m" Value="1" />
+      <ResourceParameter Name="Scale_q" Value="0" />
+      <ResourceParameter Name="Unit" Value="V" />
+      <NominalCalibrationParameter Name="gain" Value="1" />
+      <NominalCalibrationParameter Name="offset" Value="0" />
+    </Resource>
+  </Configuration>
+  <Socket Socket="-1" />
+  <Socket Socket="1">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="2">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="3">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="4">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="5">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="6">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="7">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="8">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="9">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="10">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="11">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="12">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="13">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="14">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="15">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="16">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="17">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="18">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="19">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
+  <Socket Socket="20">
+    <Resource UUTResourceId="DMM" StationResourceId="&lt;Select...&gt;" />
+  </Socket>
 </Root>
