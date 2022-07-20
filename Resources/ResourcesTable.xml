@@ -18,7 +18,7 @@
   </Configuration>
   <Socket Socket="-1">
     <Resource UUTResourceId="VOLTMETER" StationResourceId="Analog.Input.Ch0" />
-    <Resource UUTResourceId="PWR_METER" StationResourceId="&lt;Select...&gt;" />
+    <Resource UUTResourceId="PWR_METER" StationResourceId="Analog.Input.Ch1" />
   </Socket>
   <Socket Socket="1" />
   <Socket Socket="2" />
